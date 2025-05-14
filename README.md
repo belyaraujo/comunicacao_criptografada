@@ -79,19 +79,3 @@ Instalados via:
 ```bash
 pip install streamlit pycryptodome
 ```
-
----
-
-## 👨‍🏫 Aplicações educativas
-
-Este projeto foi desenvolvido com fins didáticos para ilustrar:
-
-- Diferenças entre criptografia simétrica e assimétrica
-- Troca segura de chaves com RSA
-- Eficiência e segurança dos principais algoritmos de criptografia
-
----
-
-## 📄 Licença
-
-MIT — sinta-se livre para usar, modificar e compartilhar.
